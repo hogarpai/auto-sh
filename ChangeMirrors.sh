@@ -1,9 +1,4 @@
 #!/bin/bash
-## Author: SuperManito
-## Modified: 2022-09-14
-## License: GPL-2.0
-## Github: https://github.com/SuperManito/LinuxMirrors
-## Gitee: https://gitee.com/SuperManito/LinuxMirrors
 
 function AuthorSignature() {
     echo -e "\n${GREEN} ------------ 脚本执行结束 ------------ ${PLAIN}\n"

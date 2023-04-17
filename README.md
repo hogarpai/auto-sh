@@ -61,7 +61,7 @@
 - ### 使用方法
 
   ```bash
-  bash <(curl -sSL https://gitee.com/hogar/hogar/raw/master/ChangeMirrors.sh)
+  bash <(curl -sSL https://raw.githubusercontent.com/hogarpai/auto-sh/main/ChangeMirrors.sh)
   ```
 
   - 完整复制上面的命令到终端按回车键即可执行，若无法安装 `curl` 软件包可复制源码到本地后手动执行
@@ -95,7 +95,7 @@
   - `Docker` 一键安装脚本
 
     ```bash
-    bash <(curl -sSL https://gitee.com/hogar/hogar/raw/master/DockerInstallation.sh)
+    bash <(curl -sSL https://raw.githubusercontent.com/hogarpai/auto-sh/main/DockerInstallation.sh)
     ```
 
     > `Docker CE`：Docker Community Edition 镜像仓库，用于下载并安装 Docker 相关软件包\
@@ -107,7 +107,7 @@
   - `oh-my-zsh` 一键安装脚本
 
     ```bash
-    bash <(curl -sSL https://gitee.com/hogar/hogar/raw/master/oh-my-zsh-install.sh)
+    bash <(curl -sSL https://raw.githubusercontent.com/hogarpai/auto-sh/main/oh-my-zsh-install.sh)
     ```
 
 
